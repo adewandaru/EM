@@ -1,4 +1,4 @@
-# EM
+# EM Algorithm 1d Example.
 EM algorithm samples in Gaussian Mixture Model
 This code inspired by Victor Lavrenko's explanation https://www.youtube.com/watch?v=REypj2sy_5U&t=170s
 on solving Mixture model using EM.
@@ -27,3 +27,7 @@ Additional Libraries needed: matplotlib, numpy.
 
 # How to use
 The data generation variables are in line 41. You might want to adjust initialization variables on line 68. 
+
+# Output
+Algorithm will output a series of PNGs (or a series of images that can be seen using Spyder/IPython for each 
+iteration.
