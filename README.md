@@ -27,10 +27,14 @@ Additional Libraries needed: matplotlib, numpy.
 
 # How to use
 The data generation variables are in line 41. You might want to adjust initialization variables on line 68. 
+The default dummy values of the mean here is 3 and 7 respectively.
 
 # Output
 Algorithm will output a series of PNGs (or a series of images that can be seen using Spyder/IPython for each 
 iteration.
+Mean of each cluster are shown using vertical dotted lines.
+Note that in the first iterations the means are off. As the iterations proceed the mean are getting better
+and approaching true values.
 
 
 ![alt text](https://github.com/adewandaru/EM/blob/master/Webp.net-gifmaker.gif)
