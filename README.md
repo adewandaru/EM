@@ -18,7 +18,7 @@ assignment of membership like in K-means clustering.
 
 Note the limitation:
     - only two clusters (K=2)
-    - focused for pedagogical purpose.
+    - focused for pedagogical purpose instead of performance.
 
 The simulation works best with Spyder IDE for you to check the outputted images
 directly.
