@@ -35,6 +35,9 @@ iteration.
 Mean of each cluster are shown using vertical dotted lines.
 Note that in the first iterations the means are off. As the iterations proceed the mean are getting better
 and approaching true values.
+The upper blue/red "bar" indicates the membership degrees for each datapoint. There is color in between red
+and blue, indicates that the points there are having transition and the responsibility is shared between two
+clusters.
 
 
 ![alt text](https://github.com/adewandaru/EM/blob/master/Webp.net-gifmaker.gif)
