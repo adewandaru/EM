@@ -31,3 +31,6 @@ The data generation variables are in line 41. You might want to adjust initializ
 # Output
 Algorithm will output a series of PNGs (or a series of images that can be seen using Spyder/IPython for each 
 iteration.
+
+
+![alt text](https://github.com/adewandaru/EM/blob/master/Webp.net-gifmaker.gif)
