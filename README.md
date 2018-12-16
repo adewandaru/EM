@@ -3,6 +3,9 @@ EM algorithm samples in Gaussian Mixture Model
 This code inspired by Victor Lavrenko's explanation https://www.youtube.com/watch?v=REypj2sy_5U&t=170s
 on solving Mixture model using EM.
 
+#1 Dimensional EM
+Check the em-algorithm-1d.py on this repository.
+
 The program create two sets of 1000 gaussian random 1 dimensional datapoints 
 (scalar) each with specific mean and variance.
 
