@@ -28,7 +28,7 @@ directly.
 
 Additional Libraries needed: matplotlib, numpy.
 
-# How to use
+# Input 
 The data generation variables are in line 41. You might want to adjust initialization variables on line 68. 
 The default dummy values of the mean here is 3 and 7 respectively.
 
